@@ -15,8 +15,8 @@ const client = new Discord.Client();
 
 const request = require('request');
 const prefix = "*"; // البرافيكس
-const GUILDID = ''; // اي دي السيرفر  
-const CHANNELID = ''; // اي دي الروم
+const GUILDID = '1227418133979992134'; // اي دي السيرفر  
+const CHANNELID = '1241744435608424539'; // اي دي الروم
 
 
 client.on("ready", () => {
